@@ -1,21 +1,21 @@
 {
-  "name": "nova-admin",
+  "name": "func-admin",
   "type": "module",
   "version": "0.1.0",
   "private": true,
   "description": "",
   "author": {
-    "name": "chansee97",
-    "email": "chen.dev@foxmail.com",
-    "url": "https://github.com/chansee97"
+    "name": "Damiyinliao",
+    "email": "2911493102@qq.com",
+    "url": "https://github.com/Damiyinliao"
   },
   "license": "MIT",
-  "homepage": "https://github.com/chansee97/nova-admin",
+  "homepage": "https://github.com/Damiyinliao/func-admin",
   "repository": {
-    "url": "https://github.com/chansee97/nova-admin.git"
+    "url": "https://github.com/Damiyinliao/func-admin.git"
   },
   "bugs": {
-    "url": "https://github.com/chansee97/nova-admin/issues"
+    "url": "https://github.com/Damiyinliao/func-admin/issues"
   },
   "keywords": [
     "Vue",
@@ -89,6 +89,7 @@
     "vite": "^5.1.6",
     "vite-bundle-visualizer": "^1.1.0",
     "vite-plugin-compression": "^0.5.1",
+    "vite-plugin-env-parse": "^1.0.13",
     "vue-tsc": "^2.0.6"
   },
   "simple-git-hooks": {
